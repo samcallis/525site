@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sam Callis</title>
+    <link>/</link>
+    <description>Recent content on Sam Callis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hot Dog Plot</title>
+      <link>/projects/hotdogplot/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/hotdogplot/</guid>
+      <description>1) Description This is a bar plot showing the number of hot dogs eaten per year by the winner of Nathan’s Hot Dog Eating Contest. Additionally, information about the establishment of the IOFCE (Major League Eating) and its potential effect on the results of the contest are included. Female participants were included from 2011 and are shown in an overlay.
+ 2) Description of the data ## Rows: 49 Columns: 5 ## ── Column specification ──────────────────────────────────────────────────────── ## Delimiter: &amp;quot;,&amp;quot; ## chr (3): gender, name, affiliated ## dbl (2): year, num_eaten ## ## ℹ Use `spec()` to retrieve the full column specification for this data.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Sat, 22 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>I am a statistician working primarily in oncology. In June 2022, I will complete my MS in Biostatistics from the OHSU-PSU School of Public Health. This coming summer I will begin work with the SWOG SDMC at Fred Hutch in Seattle, WA.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/projects/projects/</link>
+      <pubDate>Wed, 19 Aug 2015 20:29:37 -0700</pubDate>
+      
+      <guid>/projects/projects/</guid>
+      <description>Here you can find some of my data visualization projects. Be sure to check out the Nathan&amp;rsquo;s Hot Dog Eating Contest graph exploration below!</description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/</guid>
+      <description>Welcome to my personal webpage! See the links above to view my bio or various data projects I have worked on.</description>
+    </item>
+    
+    <item>
+      <title>License</title>
+      <link>/license/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/license/</guid>
+      <description>You can use this page to put a license on the contents of your blog, like so:
+ The MIT License (MIT)
+Copyright (c) 2022 Steven Bedrickbedricks@ohsu.edu
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &amp;ldquo;Software&amp;rdquo;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</description>
+    </item>
+    
+  </channel>
+</rss>
